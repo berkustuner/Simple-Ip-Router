@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1640598455 source:c:\users\sd\desktop\iprouter\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1640703586 source:c:\users\sd\desktop\c-homeworks\iprouter\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
